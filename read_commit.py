@@ -1,2 +1,4 @@
 with open("commits.txt", "r") as file:
-    print(file.read())
+    commit_messages = file.read()
+
+print(commit_messages)
