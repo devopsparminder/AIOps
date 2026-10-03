@@ -1,0 +1,85 @@
+# 60-Day AI, LLM & AIOps Roadmap
+
+## Week 1 — Python for AI & DevOps
+- Day 1: Python basics — variables, strings, numbers, lists, dictionaries
+- Day 2: Conditions and loops — `if`, `for`, `while`, comprehensions
+- Day 3: Functions and modules — functions, arguments, return values, imports
+- Day 4: Python automation — `subprocess`, command execution, stdout/stderr
+- Day 5: Data handling — JSON, files, indexing, slicing, lists and dictionaries
+- Day 6: APIs — REST APIs, HTTP requests, environment variables
+- Day 7: Mini-project — Git history → Python → structured JSON
+
+## Week 2 — AI Fundamentals
+- Day 1: What is AI? AI vs Machine Learning vs Deep Learning
+- Day 2: Data, datasets, features, labels and models
+- Day 3: Neural networks — layers, weights and activations
+- Day 4: Training vs inference
+- Day 5: Model parameters, weights and evaluation
+- Day 6: GPUs and AI infrastructure basics
+- Day 7: Build a small ML example and understand the complete ML lifecycle
+
+## Week 3 — LLM Fundamentals
+- Day 1: What is an LLM?
+- Day 2: Tokens and tokenization
+- Day 3: Embeddings
+- Day 4: Transformers
+- Day 5: Attention and self-attention
+- Day 6: Context windows, parameters and inference
+- Day 7: Prompting, temperature and model behaviour
+
+## Week 4 — LLM Application Development
+- Day 1: LLM APIs
+- Day 2: Python + LLM integration
+- Day 3: System/user instructions and prompt design
+- Day 4: Structured JSON output
+- Day 5: Error handling, retries and timeouts
+- Day 6: Build a DevOps-focused LLM utility
+- Day 7: Mini-project — Git commits → LLM → release-note summary
+
+## Week 5 — RAG
+- Day 1: Why RAG?
+- Day 2: Document loading and chunking
+- Day 3: Embeddings and semantic search
+- Day 4: Vector databases
+- Day 5: Retrieval and context injection
+- Day 6: Build a documentation/runbook assistant
+- Day 7: RAG testing, relevance and security
+
+## Week 6 — Tools & AI Agents
+- Day 1: Function/tool calling
+- Day 2: Giving LLMs access to external systems
+- Day 3: Agent architecture and workflows
+- Day 4: Agent state and tool execution
+- Day 5: MCP concepts
+- Day 6: Build a simple DevOps agent
+- Day 7: Agent security and permissions
+
+## Week 7 — LLMOps
+- Day 1: LLM evaluation
+- Day 2: Prompt and model versioning
+- Day 3: LLM observability and tracing
+- Day 4: Tokens, cost and latency
+- Day 5: Reliability, retries and fallbacks
+- Day 6: Security, secrets and data protection
+- Day 7: CI/CD and production readiness for LLM applications
+
+## Week 8 — AI Infrastructure
+- Day 1: Docker for AI workloads
+- Day 2: Kubernetes/AKS for AI workloads
+- Day 3: GPU workloads and resource management
+- Day 4: Model serving concepts
+- Day 5: MLflow, Kubeflow and KServe
+- Day 6: Networking, security and observability
+- Day 7: Design an enterprise AI platform architecture
+
+## Final 4 Days — AIOps Capstone
+- Day 57: Ingest GitHub, Azure and monitoring/incident data
+- Day 58: Add LLM-based incident analysis and structured output
+- Day 59: Add tools/agents for operational investigation
+- Day 60: Add observability, security and production deployment design
+
+### Final Goal
+
+DevOps → Python → AI → LLM → RAG → Agents → LLMOps → AI Infrastructure → AIOps
+
+The objective is to combine your existing DevOps/cloud experience with AI engineering so you can build and operate AI-enabled platforms, LLM applications and AIOps systems.
